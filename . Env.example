@@ -1,0 +1,49 @@
+################################
+# BOT SETTINGS
+################################
+
+BOT_NAME=R4VEY-MD
+OWNER_NAME=Ravey
+OWNER_NUMBER=256701956058
+PREFIX=.
+
+################################
+# PAIRING
+################################
+
+PAIRING_MODE=qr
+
+SESSION_ID=
+
+################################
+# DATABASE
+################################
+
+DATABASE=json
+
+MONGO_URI=
+
+################################
+# AUTO FEATURES
+################################
+
+AUTO_READ=false
+AUTO_REACT=false
+AUTO_TYPING=false
+AUTO_BLOCK=false
+
+################################
+# STICKERS
+################################
+
+PACKNAME=R4VEY-MD
+AUTHOR=Ravey
+
+################################
+# APIs
+################################
+
+OPENAI_KEY=
+GEMINI_KEY=
+GROQ_KEY=
+DEEPSEEK_KEY=
